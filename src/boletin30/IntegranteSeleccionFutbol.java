@@ -5,7 +5,7 @@
  */
 package boletin30;
 
-
+//interfaz desde la cual no se definen los metodos pero estos se encuentran listos para ser llamados
 public interface IntegranteSeleccionFutbol {
 
     void concentrarse();

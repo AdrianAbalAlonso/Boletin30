@@ -12,7 +12,7 @@ public class Seleccionador extends SeleccionFutbol {
     }
 
     public void seleccionarJugador() {
-        System.out.println("Se seleccion un jugador");
+        System.out.println("Se selecciona un jugador");
     }
 
     @Override
